@@ -1,0 +1,2431 @@
+fileFormatVersion: 2
+guid: 18fd9d22d57a51f4fa11a9fe5779e1f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5264727658423993710
+    second: Humans1_Dead_0
+  - first:
+      213: -3581028414834338374
+    second: Humans1_Dead_1
+  - first:
+      213: 8816584803819288949
+    second: Humans1_Dead_2
+  - first:
+      213: 2027028693469259293
+    second: Humans1_Dead_3
+  - first:
+      213: -6963619143500903495
+    second: Humans1_Dead_4
+  - first:
+      213: -3596866859120160428
+    second: Humans1_Dead_5
+  - first:
+      213: -610160727265282123
+    second: Humans1_Dead_6
+  - first:
+      213: 8492962415220891348
+    second: Humans1_Dead_7
+  - first:
+      213: 325961078600453454
+    second: Humans1_Dead_8
+  - first:
+      213: 4782546695896156347
+    second: Humans1_Dead_9
+  - first:
+      213: -5322999852606862998
+    second: Humans1_Dead_10
+  - first:
+      213: -1820525839076348309
+    second: Humans1_Dead_11
+  - first:
+      213: 6243526534562100764
+    second: Humans1_Dead_12
+  - first:
+      213: 6905258175039015118
+    second: Humans1_Dead_13
+  - first:
+      213: -128326642200158348
+    second: Humans1_Dead_14
+  - first:
+      213: 3129323570692152027
+    second: Humans1_Dead_15
+  - first:
+      213: -3384149525496912568
+    second: Humans1_Dead_16
+  - first:
+      213: -4340794413863812985
+    second: Humans1_Dead_17
+  - first:
+      213: 6997692270041419243
+    second: Humans1_Dead_18
+  - first:
+      213: -1764803641915788405
+    second: Humans1_Dead_19
+  - first:
+      213: -370257366900755067
+    second: Humans1_Dead_20
+  - first:
+      213: 4301673439904600104
+    second: Humans1_Dead_21
+  - first:
+      213: -2941902520255337851
+    second: Humans1_Dead_22
+  - first:
+      213: -5307979314753434092
+    second: Humans1_Dead_23
+  - first:
+      213: -5636562782597194300
+    second: Humans1_Dead_24
+  - first:
+      213: 7375364049385112907
+    second: Humans1_Dead_25
+  - first:
+      213: -379220242496655309
+    second: Humans1_Dead_26
+  - first:
+      213: -3976167964404669455
+    second: Humans1_Dead_27
+  - first:
+      213: 219112782820512738
+    second: Humans1_Dead_28
+  - first:
+      213: 2918846059594053339
+    second: Humans1_Dead_29
+  - first:
+      213: 3937513184897788303
+    second: Humans1_Dead_30
+  - first:
+      213: -2697610161000810212
+    second: Humans1_Dead_31
+  - first:
+      213: -8088647027971480238
+    second: Humans1_Dead_32
+  - first:
+      213: 2750958669433455081
+    second: Humans1_Dead_33
+  - first:
+      213: -8297254961303512727
+    second: Humans1_Dead_34
+  - first:
+      213: -3018762759144524997
+    second: Humans1_Dead_35
+  - first:
+      213: -6662583171063910520
+    second: Humans1_Dead_36
+  - first:
+      213: 1095823219912084224
+    second: Humans1_Dead_37
+  - first:
+      213: 7977014440662009035
+    second: Humans1_Dead_38
+  - first:
+      213: -5233127487836916368
+    second: Humans1_Dead_39
+  - first:
+      213: -8005012048445365600
+    second: Humans1_Dead_40
+  - first:
+      213: 3253885236675414617
+    second: Humans1_Dead_41
+  - first:
+      213: 8624233066819055796
+    second: Humans1_Dead_42
+  - first:
+      213: -5926578600665964593
+    second: Humans1_Dead_43
+  - first:
+      213: 5029517775257909507
+    second: Humans1_Dead_44
+  - first:
+      213: -2297927829803521255
+    second: Humans1_Dead_45
+  - first:
+      213: -3385309026154995630
+    second: Humans1_Dead_46
+  - first:
+      213: 983439592824954424
+    second: Humans1_Dead_47
+  - first:
+      213: 2714470344717857276
+    second: Humans1_Dead_48
+  - first:
+      213: -4374731127214384185
+    second: Humans1_Dead_49
+  - first:
+      213: -3431938505652747581
+    second: Humans1_Dead_50
+  - first:
+      213: 654858681808231365
+    second: Humans1_Dead_51
+  - first:
+      213: 4856041617114901436
+    second: Humans1_Dead_52
+  - first:
+      213: 4986535142165611289
+    second: Humans1_Dead_53
+  - first:
+      213: 7130590942749119842
+    second: Humans1_Dead_54
+  - first:
+      213: -6583514041749902730
+    second: Humans1_Dead_55
+  - first:
+      213: -3113725071830594649
+    second: Humans1_Dead_56
+  - first:
+      213: -7117261593243569315
+    second: Humans1_Dead_57
+  - first:
+      213: -8305798934470976002
+    second: Humans1_Dead_58
+  - first:
+      213: 3846677501954391350
+    second: Humans1_Dead_59
+  - first:
+      213: -1901746698430228605
+    second: Humans1_Dead_60
+  - first:
+      213: -6634399663258309348
+    second: Humans1_Dead_61
+  - first:
+      213: -8194845694724617956
+    second: Humans1_Dead_62
+  - first:
+      213: 8418877694086881378
+    second: Humans1_Dead_63
+  - first:
+      213: -7305590580840239523
+    second: Humans1_Dead_64
+  - first:
+      213: 8444024351742628143
+    second: Humans1_Dead_65
+  - first:
+      213: -3094381672360659681
+    second: Humans1_Dead_66
+  - first:
+      213: -7033317411251455365
+    second: Humans1_Dead_67
+  - first:
+      213: 7605283081498826117
+    second: Humans1_Dead_68
+  - first:
+      213: -8215009842788628923
+    second: Humans1_Dead_69
+  - first:
+      213: -2672964589906259044
+    second: Humans1_Dead_70
+  - first:
+      213: 8884934515994949562
+    second: Humans1_Dead_71
+  - first:
+      213: -2232269732845829964
+    second: Humans1_Dead_72
+  - first:
+      213: -8594378081102283269
+    second: Humans1_Dead_73
+  - first:
+      213: -7058155062117043818
+    second: Humans1_Dead_74
+  - first:
+      213: 7534374913895660833
+    second: Humans1_Dead_75
+  - first:
+      213: 8000914383372362919
+    second: Humans1_Dead_76
+  - first:
+      213: 8137812897538067170
+    second: Humans1_Dead_77
+  - first:
+      213: 8354606073180527159
+    second: Humans1_Dead_78
+  - first:
+      213: 8998491752437923046
+    second: Humans1_Dead_79
+  - first:
+      213: -8473728939025890834
+    second: Humans1_Dead_80
+  - first:
+      213: 8694469086870165563
+    second: Humans1_Dead_81
+  - first:
+      213: -7865586220519671915
+    second: Humans1_Dead_82
+  - first:
+      213: -6411729341566685242
+    second: Humans1_Dead_83
+  - first:
+      213: -5833175185433109416
+    second: Humans1_Dead_84
+  - first:
+      213: -3507523685302542006
+    second: Humans1_Dead_85
+  - first:
+      213: -6221377384395037904
+    second: Humans1_Dead_86
+  - first:
+      213: 4301000346685600390
+    second: Humans1_Dead_87
+  - first:
+      213: -592833940562464159
+    second: Humans1_Dead_88
+  - first:
+      213: 2415737648816035801
+    second: Humans1_Dead_89
+  - first:
+      213: -3003221477557157707
+    second: Humans1_Dead_90
+  - first:
+      213: -335915403681091122
+    second: Humans1_Dead_91
+  - first:
+      213: 2858571347172564501
+    second: Humans1_Dead_92
+  - first:
+      213: 6258515902090274954
+    second: Humans1_Dead_93
+  - first:
+      213: 4060116561453325495
+    second: Humans1_Dead_94
+  - first:
+      213: 7334440096658697808
+    second: Humans1_Dead_95
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Humans1_Dead_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 224
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a202e84e1211dc94583312ce4c0731c6
+      internalID: -5264727658423993710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 224
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec5dee0411a8a54e908db4997b8795c
+      internalID: -3581028414834338374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 224
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87eac9278ec9354499ae7921f270739
+      internalID: 8816584803819288949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 224
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e7d7e1d540cb64e9dd1b0bb4dae132
+      internalID: 2027028693469259293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 224
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5fd047800fdd34996b605cbc65c432
+      internalID: -6963619143500903495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 224
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64282a4c6fee2a642a71df18cd5cd123
+      internalID: -3596866859120160428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 224
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3cda686c65df34f9606fcfc287ab2d
+      internalID: -610160727265282123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 224
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab864e85510a894cbf0c3d029043a5d
+      internalID: 8492962415220891348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 224
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8340f4a9435d74c8668865950558ae
+      internalID: 325961078600453454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 224
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526e5e6448c2cac499ed526fa4fcd7c9
+      internalID: 4782546695896156347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_10
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 224
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0703e1ca04bfb24cba42a0b6e85ff56
+      internalID: -5322999852606862998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_11
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 224
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d192d8623f1a74b8e0e052213acd7d
+      internalID: -1820525839076348309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 193
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790b49fdd34e00b448df3b01a250710d
+      internalID: 6243526534562100764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 193
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6451a0981cac14a8cfef3c919c703b
+      internalID: 6905258175039015118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 193
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bfcb3eaa90f0204b93689b9da3c9841
+      internalID: -128326642200158348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 192
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77293af163317464baf01170b3e395d7
+      internalID: 3129323570692152027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_16
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 192
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9646e4276c5716c46965b29f1b394e94
+      internalID: -3384149525496912568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_17
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 192
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e056d59ef664c3148ae8e9d7942b3a82
+      internalID: -4340794413863812985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_18
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 192
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4c3bcc9a9f1364dab5ce226cb0003f
+      internalID: 6997692270041419243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_19
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 192
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be663065297bcb4cbde0e7b53af4301
+      internalID: -1764803641915788405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_20
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 192
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5519e8248963304a934eb1d6812c050
+      internalID: -370257366900755067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_21
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 192
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf3c0114bd553645866005d06ebd6b5
+      internalID: 4301673439904600104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_22
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 192
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96268fe0f7e2c0247b1f0d29a8882629
+      internalID: -2941902520255337851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_23
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 192
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2745bfcd5fbeed49a6da4b3856ef5e8
+      internalID: -5307979314753434092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 160
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf8c53843b11a2488187caace36194a
+      internalID: -5636562782597194300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_25
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 160
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eeaf4100e3476f45a576fa85202c7e5
+      internalID: 7375364049385112907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_26
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 160
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2b0ae603868ac4da3c67cd79a0816d
+      internalID: -379220242496655309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 160
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20972590eef81a6419d7f79fe5afad5f
+      internalID: -3976167964404669455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_28
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 160
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa3457ff8bb950488796fa2e94c4d3e
+      internalID: 219112782820512738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_29
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 160
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e48d88c102ff8d46879cc7a4da7ce5d
+      internalID: 2918846059594053339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_30
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 160
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604ac49502a3bad48a0eb4ac3fcea185
+      internalID: 3937513184897788303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_31
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 160
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27480bdbce48b8041ae76349a597fc2d
+      internalID: -2697610161000810212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_32
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 160
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8121ab723be18f46b6c9066cbe8428b
+      internalID: -8088647027971480238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_33
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 160
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac48e8e9718dbf40a183a556b9640f0
+      internalID: 2750958669433455081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_34
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 160
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2dcd66fdb27b6f4d96ed12add2093d5
+      internalID: -8297254961303512727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_35
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 160
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b340f2b4ff5c1d43a03e102876fc0c3
+      internalID: -3018762759144524997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_36
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 128
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d469cf77bf1f92d43be7486b77349098
+      internalID: -6662583171063910520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_37
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 128
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d38c97ad0e2374aa6ea35502125739
+      internalID: 1095823219912084224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_38
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 128
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825adb5fe4c915849ac5294d450fdd33
+      internalID: 7977014440662009035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_39
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 129
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac7280f3989c324f862e8785708283b
+      internalID: -5233127487836916368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_40
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 129
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d91fa3cda51b2d48bb7d6071b97bf7a
+      internalID: -8005012048445365600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_41
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 129
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114aa8a2e02fd5d44890d2baac53119d
+      internalID: 3253885236675414617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_42
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 128
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267faa24e9537b344a3e6ae8bdc3923d
+      internalID: 8624233066819055796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_43
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 128
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3a3c0f783737f46a53395c731b2b59
+      internalID: -5926578600665964593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_44
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 128
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6919a0d40f435dc4a926fa1a36d52bf2
+      internalID: 5029517775257909507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_45
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 129
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612ff69ecc34ffe48b435b3248d57b44
+      internalID: -2297927829803521255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_46
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 129
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c354a30a8e55ab644aca5af9fb3ae1d4
+      internalID: -3385309026154995630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_47
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 129
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1023e4f64c5f854f93fcb0357d548e0
+      internalID: 983439592824954424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_48
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 96
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2055125a6ad789b46a4120c360d868c5
+      internalID: 2714470344717857276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_49
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 96
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd7fbd1a3ccb6447939113fca3d2f04
+      internalID: -4374731127214384185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_50
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 96
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa023603898f28469e85b328c07db9d
+      internalID: -3431938505652747581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_51
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 96
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f87580fed578284c8c20a05f47ffde1
+      internalID: 654858681808231365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_52
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 96
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8820f97ffb874741962635fa439c94b
+      internalID: 4856041617114901436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_53
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 96
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf87349cec707e4f957f869df45e651
+      internalID: 4986535142165611289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_54
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 96
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a76067f8a1d6140bfa38706b68228d
+      internalID: 7130590942749119842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_55
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 96
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78021522bf8b30845a0907dbfac4ebff
+      internalID: -6583514041749902730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_56
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 96
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3021b8a9d69bfbe45ad21b259ad769ca
+      internalID: -3113725071830594649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_57
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 96
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496450a4a86d4714e94ff74966fc7c39
+      internalID: -7117261593243569315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_58
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 96
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f12df6a1c8577429e393c8be01be80
+      internalID: -8305798934470976002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_59
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 96
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c4cb86b4d60bf448e9ae5b2c2d1b7b
+      internalID: 3846677501954391350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 65
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d466e3a2e29f8b348ae5e8bca3fefb2c
+      internalID: -1901746698430228605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_61
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 65
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef14a6e45a606e541ac5f578f60ecfc9
+      internalID: -6634399663258309348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_62
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 65
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afab8f61775b5784a873539227f7911e
+      internalID: -8194845694724617956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_63
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 64
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3b0d5b46c6d4749972ecd37dc9d263
+      internalID: 8418877694086881378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_64
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 64
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bae05dc029220949bbf6950c78d0823
+      internalID: -7305590580840239523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_65
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 64
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2898439b8f17e4046b3cb6138d13a6fd
+      internalID: 8444024351742628143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_66
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 64
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8423bd179679b3540b1dcf5b3fac2766
+      internalID: -3094381672360659681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_67
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 64
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6b1c605a96f394d9e7e4b7f7f496dc
+      internalID: -7033317411251455365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_68
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 64
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b00abad35d3bf40b92d81bb4998579
+      internalID: 7605283081498826117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_69
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 64
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cc78f590016814fbc4d7f0e368198d
+      internalID: -8215009842788628923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_70
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 64
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb37f2d1f467a84e9913018e23fd6ab
+      internalID: -2672964589906259044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_71
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 64
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2147c0c0b742c174cb8d7253fc889f10
+      internalID: 8884934515994949562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_72
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 32
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc409763f86981243a26a035603aab22
+      internalID: -2232269732845829964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_73
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 32
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384dd7444ad426c42a0d8f91bf289c9c
+      internalID: -8594378081102283269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_74
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 32
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a288b102681ed47bfaeab661f095cf
+      internalID: -7058155062117043818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_75
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 32
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12aa67fa28fdf6f46b6bec96e8296b20
+      internalID: 7534374913895660833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_76
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 32
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95836fa5bbb1d854094cf8f764b95b1f
+      internalID: 8000914383372362919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_77
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 32
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa322fe10a0288e46ae8f76a701692f6
+      internalID: 8137812897538067170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_78
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 32
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d133754415db4d419c9bc4490af3a1d
+      internalID: 8354606073180527159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_79
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 32
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9f6b9728305fa4dbbd6e7af782a3cb
+      internalID: 8998491752437923046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_80
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 32
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16520ea7f6605874db9aac1263e33e79
+      internalID: -8473728939025890834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_81
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 32
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239f2962c63a636429db2df8386d3fbb
+      internalID: 8694469086870165563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_82
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 32
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b5527328cecc54fbe44b2b3ab71de1
+      internalID: -7865586220519671915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_83
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 32
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f3ce17326d6c241b0d907b8c22aa40
+      internalID: -6411729341566685242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_84
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7899deb03332bc442bb0eaf351617b71
+      internalID: -5833175185433109416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_85
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b64fba655747a47b234dab6ded366b
+      internalID: -3507523685302542006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_86
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f0d856adf62954db151ca030003e81
+      internalID: -6221377384395037904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_87
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b7ff5589399aa4fb487c9aaf750503
+      internalID: 4301000346685600390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_88
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acc3a7fb1d042941babe62b9ca082e0
+      internalID: -592833940562464159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_89
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddeebde19e0c0e45a65ee9f2ff12642
+      internalID: 2415737648816035801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_90
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2446ddc9e05c2f641981f1dc195847a7
+      internalID: -3003221477557157707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_91
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a27a76b2f12424cbdb33819ed0483f
+      internalID: -335915403681091122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_92
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 0
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14b6b81b9e164242b163a452a051aaf
+      internalID: 2858571347172564501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_93
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f7dc88db868384586407bf4a483115
+      internalID: 6258515902090274954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_94
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d826cd0d938bf74ab7bd65310b75332
+      internalID: 4060116561453325495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humans1_Dead_95
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa4824d33360464cb21d55af47402f6
+      internalID: 7334440096658697808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

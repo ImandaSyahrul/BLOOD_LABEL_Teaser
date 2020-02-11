@@ -1,0 +1,847 @@
+fileFormatVersion: 2
+guid: 47668dce5b95c5642a3f6f1db9153fcb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7368705643511911549
+    second: IdlleAnisette_0
+  - first:
+      213: 8731842447097707626
+    second: IdlleAnisette_1
+  - first:
+      213: -8905001984113094081
+    second: IdlleAnisette_2
+  - first:
+      213: -1419494500977517818
+    second: IdlleAnisette_3
+  - first:
+      213: 6336695856847816934
+    second: IdlleAnisette_4
+  - first:
+      213: -6074157478855567425
+    second: IdlleAnisette_5
+  - first:
+      213: -6837044796143445418
+    second: IdlleAnisette_6
+  - first:
+      213: 8110689419728804208
+    second: IdlleAnisette_7
+  - first:
+      213: 3756632597848609570
+    second: IdlleAnisette_8
+  - first:
+      213: -6979111866184160647
+    second: IdlleAnisette_9
+  - first:
+      213: 4084936333205196511
+    second: IdlleAnisette_10
+  - first:
+      213: -3158843852475799194
+    second: IdlleAnisette_11
+  - first:
+      213: 9094622907246989898
+    second: IdlleAnisette_12
+  - first:
+      213: 2817367653781982328
+    second: IdlleAnisette_13
+  - first:
+      213: -8047816496933068803
+    second: IdlleAnisette_14
+  - first:
+      213: -1763777000064048102
+    second: IdlleAnisette_15
+  - first:
+      213: -737761107621798603
+    second: IdlleAnisette_16
+  - first:
+      213: -7725119637159165517
+    second: IdlleAnisette_17
+  - first:
+      213: -2788509920713778764
+    second: IdlleAnisette_18
+  - first:
+      213: 4963760042849215913
+    second: IdlleAnisette_19
+  - first:
+      213: 5281529354931035432
+    second: IdlleAnisette_20
+  - first:
+      213: -1703089660697244517
+    second: IdlleAnisette_21
+  - first:
+      213: 6092537956144401357
+    second: IdlleAnisette_22
+  - first:
+      213: 3084050910122476201
+    second: IdlleAnisette_23
+  - first:
+      213: -1268565163583013261
+    second: IdlleAnisette_24
+  - first:
+      213: -6156839229327086839
+    second: IdlleAnisette_25
+  - first:
+      213: -582394612780870956
+    second: IdlleAnisette_26
+  - first:
+      213: 9111375642601520860
+    second: IdlleAnisette_27
+  - first:
+      213: -7710009026562258330
+    second: IdlleAnisette_28
+  - first:
+      213: 6740836207610747584
+    second: IdlleAnisette_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IdlleAnisette_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e805b6a2b320e4da0cc253fc399216
+      internalID: -7368705643511911549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlleAnisette_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a726b544703c81342bd7bb2fdb363033
+      internalID: 8731842447097707626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlleAnisette_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 3
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d444418dcb1ba34a9ea18e0065ed39b
+      internalID: -8905001984113094081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlleAnisette_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 3
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07141c5a4739ffa49b4195b33a6ad539
+      internalID: -1419494500977517818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlleAnisette_4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 3
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97609323fa4dd1948838c06501052553
+      internalID: 6336695856847816934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlleAnisette_5
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 3
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8110a39e43fd4d24486e67a686e4fe05
+      internalID: -6074157478855567425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlleAnisette_6
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 3
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2e1751ba77a5040a11fc43c6db51b9
+      internalID: -6837044796143445418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlleAnisette_7
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 3
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae67df69e139c14a9722aa6ca3bf7b8
+      internalID: 8110689419728804208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlleAnisette_8
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 3
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b975c894ddcfc24bbc0394b95c1302d
+      internalID: 3756632597848609570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlleAnisette_9
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 3
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b502774add3d88244aff49739f418c52
+      internalID: -6979111866184160647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlleAnisette_10
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 3
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f726b11a1d63148a608a0841673043
+      internalID: 4084936333205196511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlleAnisette_11
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d945f519fae405449a1865ad10169963
+      internalID: -3158843852475799194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlleAnisette_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 3
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e874d8fa7f58884b81536483d9c8c5e
+      internalID: 9094622907246989898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlleAnisette_13
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 3
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7048d2e08aec34b47a214d8a9ee9deae
+      internalID: 2817367653781982328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlleAnisette_14
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 3
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fd6aa7cbe35b14c9fd08181ad489c7
+      internalID: -8047816496933068803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlleAnisette_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 3
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ca124d5774b4b438267cf9078d8842
+      internalID: -1763777000064048102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlleAnisette_16
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 3
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e7983f2407a30459458ebc3ae7f633
+      internalID: -737761107621798603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlleAnisette_17
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 3
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9e58b675871b049902a885a338fac2
+      internalID: -7725119637159165517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlleAnisette_18
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 3
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518259cba90d68947af8ba05e10b2ffc
+      internalID: -2788509920713778764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlleAnisette_19
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 3
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7133347de41d0114f84f90b67c64da17
+      internalID: 4963760042849215913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlleAnisette_20
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 3
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660f51df8e4a7b347afb8b6fda23e2f4
+      internalID: 5281529354931035432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlleAnisette_21
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 3
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9366606cb32cd004e9ae99e226c4cd4b
+      internalID: -1703089660697244517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlleAnisette_22
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 3
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed3983934b8f7d448561d4c566f6030
+      internalID: 6092537956144401357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlleAnisette_23
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 3
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b2ff42bf220d1488b06c9fc6eb91fc
+      internalID: 3084050910122476201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlleAnisette_24
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 3
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3b9d679ca9e6141b90429fc0fa3834
+      internalID: -1268565163583013261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlleAnisette_25
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 3
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a106548d865914c8c1a9344ad12523
+      internalID: -6156839229327086839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlleAnisette_26
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 3
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5400fc468be2601419bc2ef70ab3226b
+      internalID: -582394612780870956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlleAnisette_27
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 3
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b6d880dfcb9844c8b54707bc2b1e6d
+      internalID: 9111375642601520860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlleAnisette_28
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 3
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b458b1a77dd214d9a9058d6dc5da25
+      internalID: -7710009026562258330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlleAnisette_29
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 3
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93e128b6b79ea84aadc8b525264cc64
+      internalID: 6740836207610747584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
