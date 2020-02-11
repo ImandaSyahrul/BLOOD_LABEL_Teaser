@@ -147,7 +147,7 @@ public class PlayerController : MonoBehaviour
 		{
 			if (Input.GetAxisRaw("Horizontal")!=0)
 			{
-				flashLight.transform.eulerAngles = new Vector3(0, 0, -Input.GetAxisRaw("Vertical") * 180);
+				flashLight.transform.localEulerAngles = new Vector3(0, 0, Input.GetAxisRaw("Horizontal") * 90);
 				rb.velocity = new Vector3(Input.GetAxisRaw("Horizontal") * moveSpeed, 0f, 0f);
 				//transform.parent.Translate(new Vector3(Input.GetAxisRaw("Horizontal") * moveSpeed * Time.deltaTime, 0f, 0f));
 				playerMoving = true;
@@ -156,7 +156,9 @@ public class PlayerController : MonoBehaviour
 			}
 			if (Input.GetAxisRaw("Vertical")!=0)
 			{
-				flashLight.transform.eulerAngles = new Vector3(0, 0, -Input.GetAxisRaw("Vertical") * 180);
+				if (Input.GetAxisRaw("Vertical") > 0) flashLight.transform.localEulerAngles = new Vector3(0, 0, Input.GetAxisRaw("Vertical") * 180);
+				if (Input.GetAxisRaw("Vertical") < 0) flashLight.transform.localEulerAngles = new Vector3(0, 0, Input.GetAxisRaw("Vertical") * 0);
+
 				rb.velocity = new Vector3(0f, Input.GetAxisRaw("Vertical") * moveSpeed, 0f);
 				//transform.parent.Translate(new Vector3(0f, Input.GetAxisRaw("Vertical") * moveSpeed * Time.deltaTime, 0f));
 				playerMoving = true;
