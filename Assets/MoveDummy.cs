@@ -14,7 +14,10 @@ public class MoveDummy : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Input.GetAxisRaw("Horizontal") < 0) rb.velocity = new Vector3(Input.GetAxisRaw("Horizontal")*0.25f, 0f, 0f);
+        if (Input.GetAxisRaw("Horizontal") < -0.5f)
+        {
+            rb.velocity = new Vector3(Input.GetAxisRaw("Horizontal") * 0.25f, 0f, 0f);
+        }
 
     }
 }
