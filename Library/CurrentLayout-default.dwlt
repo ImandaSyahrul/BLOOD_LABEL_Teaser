@@ -113,10 +113,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 709, y: 471}
-  m_MaxSize: {x: 18004, y: 14021}
+  m_MinSize: {x: 708, y: 471}
+  m_MaxSize: {x: 18003, y: 14021}
   vertical: 0
-  controlID: 1543
+  controlID: 5954
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -141,7 +141,7 @@ MonoBehaviour:
   m_MinSize: {x: 231, y: 471}
   m_MaxSize: {x: 10001, y: 14021}
   vertical: 1
-  controlID: 1495
+  controlID: 5986
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -218,7 +218,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 342}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 1544
+  controlID: 5955
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -257,7 +257,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: AnimationWindow
+  m_Name: ConsoleWindow
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -268,15 +268,15 @@ MonoBehaviour:
     height: 347
   m_MinSize: {x: 101, y: 121}
   m_MaxSize: {x: 4001, y: 4021}
-  m_ActualView: {fileID: 20}
+  m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
   - {fileID: 19}
   - {fileID: 20}
   - {fileID: 21}
   - {fileID: 22}
-  m_Selected: 2
-  m_LastSelected: 4
+  m_Selected: 0
+  m_LastSelected: 2
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -423,9 +423,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 76e6fffff0e6ffffb6e9ffffaeebffffb2ebffffc8ebffff66fbffffc4430000
+      m_SelectedIDs: 18510000
+      m_LastClickedID: 20760
+      m_ExpandedIDs: d2b6ffffc6e4ffff44f7ffff60faffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -488,20 +488,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Sprites/Map
+    - Assets/Sprites/Environment
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/Sprites/Map
+  - Assets/Sprites/Environment
   m_LastFoldersGridSize: 96
   m_LastProjectPath: C:\Users\Imanda Syahrul R\Documents\Unity\BLOOD LABEL Teaser
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 46480000
-    m_LastClickedID: 18502
-    m_ExpandedIDs: 00000000e64000003445000036450000384500003a4500003c4500003e45000040450000424500004445000000ca9a3b
+    scrollPos: {x: 0, y: 49}
+    m_SelectedIDs: 68480000
+    m_LastClickedID: 18536
+    m_ExpandedIDs: 000000000a410000584500005a4500005c4500005e450000604500006245000064450000684500007048000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -529,7 +529,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000e64000003445000036450000384500003a4500003c4500003e45000040450000424500004445000000ca9a3b
+    m_ExpandedIDs: 000000000a410000584500005a4500005c4500005e450000604500006245000064450000684500007048000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -557,7 +557,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: c6230000684200006e5300006c5d0000565d00006a7800004284000082460000b624000032600000a4370000e2e7ffff1e5f00001a5f0000de340000643a000098190000b02e0000163a0000123a00008a30000086540000e436000034350000ea4800007c3f00002e3f00007a34000016520000e63b000088400000d44a0000ae5c0000cc57000022bf000044350000be440000b64400004e3500000a97000090330000320f0100360f0100a046000000000000eec70000f0540000
+    m_ExpandedInstanceIDs: c6230000684200006e5300006c5d0000565d00006a7800004284000082460000b624000032600000a4370000e2e7ffff1e5f00001a5f0000de340000643a000098190000b02e0000163a0000123a00008a30000086540000e436000034350000ea4800007c3f00002e3f00007a34000016520000e63b000088400000d44a0000ae5c0000cc57000022bf000044350000be440000b64400004e3500000a97000090330000320f0100360f0100a046000000000000eec70000f05400006a4b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -581,7 +581,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 270}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 96
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 193
@@ -621,9 +621,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.6614204, y: 1.8188779, z: -1836.3556}
+    m_Target: {x: 0.12327601, y: -0.2474589, z: -1846.6807}
     speed: 2
-    m_Value: {x: 0.6614204, y: 1.8188779, z: -1836.3556}
+    m_Value: {x: 0.09533898, y: -0.25811696, z: -1846.6646}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -673,9 +673,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 2.7505198
+    m_Target: 3.75314
     speed: 2
-    m_Value: 2.7505198
+    m_Value: 3.5915215
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -861,7 +861,7 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: 17324
+  m_LastSelectedObjectID: 20760
 --- !u!114 &21
 MonoBehaviour:
   m_ObjectHideFlags: 52
